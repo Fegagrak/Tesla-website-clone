@@ -1,0 +1,89 @@
+body, html {
+    font-family: font;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url('/MiniProjetinhos/src/fotos/model-s.jpeg');
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+}
+
+/*criando o header*/
+
+p {
+    text-align: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+.logo {
+    margin-left: -10px;
+    display: inline-block;
+}
+
+.cabecalho-meio {
+    margin-left: 290px;
+    display: inline-block;
+}
+
+.cabecalho-fim {
+    margin-left: 120px;
+    display: inline-block;
+}
+
+.meio {
+    margin: 10px;
+    display: inline-block;
+}
+
+.fim {
+    margin: 10px;
+    display: inline-block;
+}
+
+/*main*/
+
+h4 {
+    color: #393C41;
+    margin: 45px 0px 0px 0px;
+    padding: 0px;
+    font-size: 40px;
+}
+
+h5 {
+    color: #5D5C61;
+    margin: 10px 0px 0px 0px;
+}
+
+.main-button {
+    display: inline-block;
+    margin-top: 300px;
+    width: 600px;
+    height: 72px;
+}
+
+button {
+    align-items: center;
+    margin-right: 15px;
+    border-radius: 20px 20px 20px 20px; 
+    padding: 13px 65px;
+    border: none;
+    background: #171A20CC;
+    color: #ffffff;
+}
+
+#white {
+    background: #ffffffA6;
+    color: #393C41;
+}
+
+img {
+    display: inline-block;
+    height: 100px;
+}
+
+.seta {
+    margin-right: 41px;
+}
